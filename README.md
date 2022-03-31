@@ -51,10 +51,6 @@
 <img style="margin-right: 30px" src="https://github.com/torgeadelin/react-native-animated-nav-tab-bar/blob/master/demo_images/config5.png?raw=true" width="300" height="220">
 </div>
 
-### Let's get to know you!
-
-👋 If your app is deployed to AppStore/GooglePlay and you're using this package, send me a DM on Twitter [@torgeadelin](https://twitter.com/torgeadelin)
-
 ## Prerequisites
 
 ❗️In order to use the component, you need to have [React Navigation](https://reactnavigation.org/) v5 installed.
@@ -206,10 +202,6 @@ Pull requests are always welcome! Feel free to open a new GitHub issue for any c
 If you raise an issue, please add proper steps to reproduce it and proper logs. Thanks!
 
 **Working on your first Pull Request?** You can learn how from this free series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
-
-## Author
-
-Catalin Torge [@torgeadelin](https://twitter.com/torgeadelin)
 
 ## License
 
