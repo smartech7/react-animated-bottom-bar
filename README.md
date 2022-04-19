@@ -22,10 +22,10 @@
 
 ## Customization Preview
 
-<div style="display:flex;">config1.png
-<img src="https://github.com/torgeadelin/react-native-animated-nav-tab-bar/blob/master/demo_images/demo1.png?raw=true" width="300">
-<img src="https://github.com/torgeadelin/react-native-animated-nav-tab-bar/blob/master/demo_images//demo2.png?raw=true" width="300">
-<img src="https://github.com/torgeadelin/react-native-animated-nav-tab-bar/blob/master/demo_images/demo3.png?raw=true" width="300">
+<div style="display:flex;">
+<img width="300" alt="demo1" src="https://user-images.githubusercontent.com/84326188/163983988-6e792cd2-2023-48b0-8c08-ebde4688be82.png">
+<img width="300" alt="demo2" src="https://user-images.githubusercontent.com/84326188/163984254-fb6d6521-635b-43e7-8354-d0312300f211.png">
+<img width="300" alt="demo3" src="https://user-images.githubusercontent.com/84326188/163984302-6ff757be-c4b8-4fad-b7f6-5abe0bd5c70c.png">
 </div>
 
 ## Other possible Customizations
@@ -33,22 +33,22 @@
 ### Label Only
 
 <div style="display:flex;">
-<img style="margin-right: 30px" src="https://github.com/torgeadelin/react-native-animated-nav-tab-bar/blob/master/demo_images/config6.png?raw=true" width="300px" height="135">
-<img style="margin-right: 30px" src="https://github.com/torgeadelin/react-native-animated-nav-tab-bar/blob/master/demo_images/config7.png?raw=true" width="300px" height="135">
-<img style="margin-right: 30px" src="https://github.com/torgeadelin/react-native-animated-nav-tab-bar/blob/master/demo_images/config8.png?raw=true" width="300px" height="135">
+<img style="margin-right: 30px" src="https://user-images.githubusercontent.com/84326188/163984548-6d4bd311-bb05-4a17-b08d-e59a2973018a.png?raw=true" width="300px" height="135">
+<img style="margin-right: 30px" src="https://user-images.githubusercontent.com/84326188/163984655-e6d4e282-5314-4e6f-9cf9-227cbde577b5.png?raw=true" width="300px" height="135">
+<img style="margin-right: 30px" src="https://user-images.githubusercontent.com/84326188/163984702-c3fb738a-9d2e-493f-9e6c-0c64cb1b45bd.png?raw=true" width="300px" height="135">
 </div>
 
 ### Layout
 
-<div style="display:flex; justify-content: space-between; align-items: center;">  
-<img style="margin-right: 30px" src="https://github.com/torgeadelin/react-native-animated-nav-tab-bar/blob/master/demo_images/config1.png?raw=true" width="300px" height="220">
-<img style="margin-right: 30px" src="https://github.com/torgeadelin/react-native-animated-nav-tab-bar/blob/master/demo_images/config2.png?raw=true" width="300px" height="220">
-<img style="margin-right: 30px" src="https://github.com/torgeadelin/react-native-animated-nav-tab-bar/blob/master/demo_images/config3.png?raw=true" width="300px" height="220">
+<div style="display:flex; justify-content: space-between; align-items: center;">
+<img style="margin-right: 30px" src="https://user-images.githubusercontent.com/84326188/163984906-29a85860-e869-4124-97b2-a4ba3cb862f2.png?raw=true" width="300px" height="220">
+<img style="margin-right: 30px" src="https://user-images.githubusercontent.com/84326188/163984958-96c71973-821e-4317-8fc7-8f9bbebc8eda.png?raw=true" width="300px" height="220">
+<img style="margin-right: 30px" src="https://user-images.githubusercontent.com/84326188/163985028-084b3a6e-2bbb-42f0-8d12-c0ddffe6aa57.png?raw=true" width="300px" height="220">
 </div>
 
 <div style="margin-top: 30px; display:flex;">
-<img style="margin-right: 30px" src="https://github.com/torgeadelin/react-native-animated-nav-tab-bar/blob/master/demo_images/config4.png?raw=true" width="300" height="220">
-<img style="margin-right: 30px" src="https://github.com/torgeadelin/react-native-animated-nav-tab-bar/blob/master/demo_images/config5.png?raw=true" width="300" height="220">
+<img style="margin-right: 30px" src="https://user-images.githubusercontent.com/84326188/163985219-54eea7b1-2217-4a32-89c0-d47f229d99f9.png?raw=true" width="300" height="220">
+<img style="margin-right: 30px" src="https://user-images.githubusercontent.com/84326188/163985264-5e9acf9d-d045-4e78-8904-7690d6829e7a.png?raw=true" width="300" height="220">
 </div>
 
 ## Prerequisites
