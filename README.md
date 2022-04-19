@@ -30,7 +30,7 @@
 
 ## Other possible Customizations
 
-### Tab Bar Icons
+### Label Only
 
 <div style="display:flex;">
 <img style="margin-right: 30px" src="https://github.com/torgeadelin/react-native-animated-nav-tab-bar/blob/master/demo_images/config6.png?raw=true" width="300px" height="135">
