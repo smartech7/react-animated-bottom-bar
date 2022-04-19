@@ -53,7 +53,7 @@
 
 ## Prerequisites
 
-❗️In order to use the component, you need to have [React Navigation](https://reactnavigation.org/) v5 installed.
+❗️In order to use the component, you need to have [React Navigation](https://reactnavigation.org/) at least v5 installed.
 
 ## Installation
 
